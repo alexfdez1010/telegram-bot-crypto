@@ -2,3 +2,5 @@
 .vscode
 crypto_reminders.db
 .venv
+__pycache__
+.pytest_cache
