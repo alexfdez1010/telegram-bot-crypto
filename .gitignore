@@ -1,2 +1,4 @@
 .env
 .vscode
+crypto_reminders.db
+.venv
